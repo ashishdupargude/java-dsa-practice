@@ -1,3 +1,4 @@
+package DSA.functions;
 import java.util.*;
 public class Functions{
 
